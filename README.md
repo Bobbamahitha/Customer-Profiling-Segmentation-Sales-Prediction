@@ -22,8 +22,19 @@ Delivered actionable insights for marketing strategy, inventory planning, and cu
 
 ***2.Research Paper***
 
-**Title: Customer Profiling, Segmentation, and Sales Prediction – Research Publication**
+**Title: Customer Profiling, Segmentation, and Sales Prediction – Research Publication** 
 
-**📄Abstract:**
+## 📝 Overview  
+This repository showcases our **published research work** on **Customer Profiling, Segmentation, and Sales Prediction**.  
+We applied **Machine Learning, NLP, and Time-Series Forecasting** techniques to analyze customer behavior, predict sales, and assist in **data-driven business decision-making**.
 
-This paper explores data-driven approaches for profiling and segmenting customers using clustering algorithms and sentiment analysis of reviews, followed by sales prediction using regression and time-series forecasting models (ARIMA, LSTM). The proposed method improves marketing precision and inventory planning by combining customer behavior insights with sales trend predictions.
+---
+
+## 📂 Repository Contents  
+| File | Description |
+|------|-------------|
+| 📄 `Paper.pdf` | Published research paper |
+| 📑 `Report.pdf` | Detailed project report |
+| 📊 `Presentation.pdf` | Project presentation slides |
+| 🖼 `Poster.pdf` | Research poster |
+
